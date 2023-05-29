@@ -144,6 +144,9 @@ dmypy.json
 /03_DryRun/OpenPose/
 /03_DryRun/Processed_Videos/
 /03_DryRun/RealSense/
+/03_DryRun/DryRun-02052023/
+
+/04_Protocol/
 
 
 #ignore all .ply files
@@ -151,6 +154,9 @@ dmypy.json
 
 #ignore all .png files
 *.png
+
+#ignore all .jpg files
+*.jpg
 
 #ignore all .mat files
 *.mat
@@ -175,5 +181,9 @@ dmypy.json
 #ignore all .avi files
 *.avi
 *.AVI
+
+#ignore all .r3d files
+*.r3d
+*.R3D
 
 desktop.ini
